@@ -5,11 +5,11 @@
 window.SCIM_CONFIG = {
 
   // 1) Supabase -> Project Settings -> Data API -> Project URL
-  SUPABASE_URL: "https://PASTE-YOUR-PROJECT-ID.supabase.co",
+  SUPABASE_URL: "https://dyvrazeqoomnixjzgxbe.supabase.co",
 
   // 2) Supabase -> Project Settings -> API Keys -> anon public (or Publishable key)
   //    This key is safe to publish. NEVER paste the "service_role" / secret key here.
-  SUPABASE_ANON_KEY: "PASTE-YOUR-ANON-KEY",
+  SUPABASE_ANON_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImR5dnJhemVxb29tbml4anpneGJlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTQyMTk4MzksImV4cCI6MjEwOTc5NTgzOX0.W32QN5dDtl3Kli0d7R6ZRiO2gtqJt5YD6Nz9pjSfycs",
 
   // 3) Only e-mails ending with these domains are allowed in.
   //    Example for Mahidol University:
